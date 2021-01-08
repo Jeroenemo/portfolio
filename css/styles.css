@@ -2,18 +2,20 @@
   min-height: 500px;
 } */
 
-/* main {
+main {
+  width: 60%;
+  margin: 0 auto;
+  background-color: whitesmoke;
+  
+  
+} 
+
+
+
+/* .about-me {
   width: 60%;
   margin: 0 auto;
 } */
-body {
-  margin: 30px;
-}
-
-.about-me {
-  width: 60%;
-  margin: 0 auto;
-}
 
 .hobbies {
   margin-top: 100px;
