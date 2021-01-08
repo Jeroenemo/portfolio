@@ -12,13 +12,20 @@ main {
 
 
 
-/* .about-me {
-  width: 60%;
-  margin: 0 auto;
-} */
+.about-me {
+  margin: 20px;
+}
+
+.about-me h1 {
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 50px;
+}
+.about-me p {
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 30px;
+}
 
 .hobbies {
-  margin-top: 100px;
   text-align: center;
   list-style-position: inside;
 }
