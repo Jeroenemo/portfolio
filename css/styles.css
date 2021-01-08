@@ -1,11 +1,15 @@
-main {
+.main {
+  max-height: 1440px;
+  overflow-y: auto;
   width: 70%;
   margin: 0 auto;
+  border: solid black 10px;
   background-color: whitesmoke; 
 } 
 
 img {
   float: left;
+  padding-right: 20px;
   max-width: 400px;
   border-radius: 50%;
 }
@@ -41,11 +45,14 @@ img {
   text-align: left;
 }
 
-.projects h2,h4, a {
+.projects h2, h3 {
   font-size: 50px;
+  text-align: center;
 }
 
-
+.projects h4 {
+  font-size: 40px;
+}
 
 .card{
   margin: 20px;
