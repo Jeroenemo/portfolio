@@ -1,7 +1,33 @@
-.card {
-  min-height: 300px;
-}
+/* .card {
+  min-height: 500px;
+} */
 
+/* main {
+  width: 60%;
+  margin: 0 auto;
+} */
 body {
   margin: 30px;
+}
+
+.about-me {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.hobbies {
+  margin-top: 100px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+
+img {
+  float: left;
+  max-width: 400px;
+  border-radius: 50%;
+}
+
+.projects h2 {
+  text-align: center;
 }
