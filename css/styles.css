@@ -1,5 +1,6 @@
 .main {
   max-height: 1440px;
+  max-width: 1200px;
   overflow-y: auto;
   width: 70%;
   margin: 0 auto;
@@ -45,9 +46,12 @@ img {
   text-align: left;
 }
 
+.projects h2, h3, p {
+  text-align: center;
+}
+
 .projects h2, h3 {
   font-size: 50px;
-  text-align: center;
 }
 
 .projects h4 {
