@@ -12,7 +12,9 @@
 
 ## Description
 
-This landing page for my personal portfolio was created with the guidance of **EPICODUS**, the greatest coding bootcamp in the known universe, and google.  
+This landing page for my personal portfolio was created with the guidance of **EPICODUS**, the greatest coding bootcamp in the known universe, and google. You can visit the page [here](https://jeroenemo.github.io/portfolio/)
+
+
 
 ## Setup/Installation Requirements
 
